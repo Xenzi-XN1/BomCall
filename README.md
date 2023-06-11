@@ -2,7 +2,7 @@
 
 BomCall - A simple tool to prank your friends or friends
 
-<img src="">
+<img src="https://github.com/Xenzi-XN1/BomCall/blob/main/carbon.png">
 
 ### installation
 ````bash
