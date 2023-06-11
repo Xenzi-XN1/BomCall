@@ -2,7 +2,8 @@
 
 BomCall - A simple tool to prank your friends or friends
 
-<img src="">
+<img src=""
+     
 
 ### installation
 
@@ -24,7 +25,7 @@ git clone https://github.com/Xenzi-XN1/BomCall
 
 cd BomCall
 
-python userid.py 
+python Call.py -n +62xxxxxx
 
 ````
 
