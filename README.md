@@ -17,7 +17,7 @@ cd BomCall
 python call.py -n +62xxxxx
 ````
 
-<img src="">
+<img src="https://github.com/Xenzi-XN1/BomCall/blob/main/carbon%20(1).png">
 
 ### requires the Termux application 
 get the Termux app on F-droid.org
