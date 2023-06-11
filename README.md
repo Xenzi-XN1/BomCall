@@ -25,4 +25,4 @@ get the Termux app on F-droid.org
 
 ### contributes
 - code by [@Xenzi-XN1](https://github.com/Xenzi-XN1)
-- obfuscator by [@Aldi098](https://github.com/Aldi098)
+- code by [@Aldi098](https://github.com/Aldi098)
