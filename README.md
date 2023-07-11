@@ -2,8 +2,18 @@
 
 BomCall - A simple tool to prank your friends or friends
 
-<img src="https://github.com/Xenzi-XN1/BomCall/blob/main/carbon.png">
+```python
+  _____                 _       _____      _ _
+ |  __ \               | |     / ____|    | | |
+ | |__) | __ __ _ _ __ | | __ | |     __ _| | |
+ |  ___/ '__/ _` | '_ \| |/ / | |    / _` | | |
+ | |   | | | (_| | | | |   <  | |___| (_| | | |
+ |_|   |_|  \__,_|_| |_|_|\_\  \_____\__,_|_|_|
+                   https://github.com/Xenzi-XN1
 
+ [?] this is a tool to prank friends or to spam scammers
+ [+] enter number +628xxxx:
+```
 ### installation
 ````bash
 apt-get update
@@ -14,10 +24,9 @@ apt-get install python3-pip
 pip install requests
 git clone https://github.com/Xenzi-XN1/BomCall
 cd BomCall
-python call.py -n +62xxxxx
+python Call.py
 ````
 
-<img src="https://github.com/Xenzi-XN1/BomCall/blob/main/carbon%20(1).png">
 
 ### requires the Termux application 
 get the Termux app on F-droid.org
