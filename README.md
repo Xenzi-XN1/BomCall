@@ -21,7 +21,7 @@ apt-get upgrade
 apt-get install git
 apt-get install python3
 apt-get install python3-pip
-pip install requests
+pip install requests bs4 datetime
 git clone https://github.com/Xenzi-XN1/BomCall
 cd BomCall
 python Call.py
